@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "title": "hello",
+      "price": 500,
+      "id": 1
+    },
+    {
+      "title": "t",
+      "price": 67,
+      "id": 3
+    },
+    {
+      "title": "34",
+      "price": 56,
+      "id": 4
+    },
+    {
+      "title": "67",
+      "price": 89,
+      "id": 5
+    },
+    {
+      "title": "56",
+      "price": 444,
+      "id": 6
+    },
+    {
+      "title": "ghj",
+      "price": 787,
+      "id": 7
+    }
+  ]
+}

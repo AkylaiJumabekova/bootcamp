@@ -1,0 +1,69 @@
+/* h2 {
+    color: blue;
+} */
+
+/* # - id
+. - class
+tag_name - tag
+* - all */ 
+
+/* #unique_size {
+    font-size: 30px;
+}
+
+.green_text {
+    color: green;
+} */
+ /* font-size: 30px; */
+
+/* p {
+    color: red;
+}
+
+* {
+    color: blue;
+} */
+
+/* * { 
+    color: green ;
+} */
+
+/* .block {
+    width: 250px;
+    height: 250px; */
+    /* background-color: gray; */
+    /* background-color: #da173e; */
+    /* background-color: rgb(255,215,0); */
+    /* margin-left: 50px;
+    padding: 15px; */
+    /* margin: 10px 12px 15px 20px; */
+    /* margin: 10px 12px; */
+
+/* } */
+
+
+body {
+    /* background-color: black; */
+    background-image: url('https://i.pinimg.com/736x/b1/3b/81/b13b81d79fe91e35008feeaf4c5b04d7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: red;
+}
+
+.green_text {
+    font-size: 25px;
+    font-weight: 900;
+    text-align: center;
+    border-bottom: 2px solid black;
+    color: yellow;
+}
+/* есть разные границы dashed, solid и тд */
+
+.test_block {
+    width: 200px;
+    height: 200px;
+    border: 2px solid green;
+    margin-left: 50px;
+    border-radius: 10px 0 0 0;
+}
+/* border-radius: 100px; круг */

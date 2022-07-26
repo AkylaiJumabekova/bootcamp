@@ -1,0 +1,128 @@
+
+/* задание 1 */
+
+/* div {
+    background-color:red;
+    width: 200px ;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10 px;
+    transition: 0.8s;
+
+}
+
+div:hover {
+    background-color: yellow ;
+    color: white;
+    font-size: 25px;
+    transition: 0.8s;
+} */
+
+
+/* задание 2 */
+
+/* a:visited {
+    color: green;
+}
+
+a:active {
+    color: black;
+} */
+
+
+/* задание 3 */
+
+/* ul {
+    list-style-type: none;
+}
+
+li {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+li:first-child {
+    background-color: yellow;
+}
+
+li:last-child {
+    background-color: green;
+}
+
+li:nth-child(3) {
+    background-color: blue;
+} */
+
+
+/* задание 4 */
+
+/* input {
+    text-align: center;
+}
+
+input:focus {
+    background-color: black;
+    color: white;
+}
+
+input::placeholder {
+    color: green;
+} */
+
+/* задание 5 */
+
+/* input:valid {
+    background-color: green;
+}
+
+input:invalid {
+    background-color: red ;
+} */
+
+
+/* задание 6 */
+
+/* .div-1, .div-2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+}
+
+div:not(.div-4) {
+    background-color: yellow;
+} */
+
+
+/* задание 7 */
+
+/* h1::before {
+    content: "Hello";
+}
+
+h1::after {
+    content: "!";
+} */
+
+/* задание 8 */
+
+/* p::selection {
+    color: red;
+    background-color: black;
+
+} */
+
+/* задание 8, пункт 2 */
+
+/* p::first-letter {
+    color: red;
+}
+
+p::first-line {
+    color: red;
+} */
+
+/* задание 9 */

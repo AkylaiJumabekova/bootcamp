@@ -1,0 +1,60 @@
+/* fixed */
+/* .container {
+    width: 1200px;
+    height: 200px;
+    background-color: teal;
+} */
+
+/* Пример */
+
+
+/* elastic */
+/* .container {
+    min-width: 320px;
+    min-width: 1200px;
+    height: 200px;
+    background-color: teal;
+} */
+
+
+/* adaptive */
+
+/* .container {
+    height: 200px;
+    background-color: teal;
+}
+
+@media all  and (max-width: 1200px) {
+    .container {
+        width: 320px;
+    }
+}
+
+@media all  and (max-width: 600px) {
+     .container {
+         width: 320px;
+        background-color: red;
+    }
+} */
+
+
+/* responcive */
+
+/* .container {
+    width: 1200px;
+    height:200px ;
+    background-color: teal;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 50%;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .container {
+        width: 100%;
+    }
+} */
