@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.navbar {
+  min-height: 10vh;
+  background-color: rgb(121, 211, 121);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: brown;
+}
+
+.active {
+  color: gold;
+}
+
+footer {
+  position: absolute;
+  width: 100vw;
+  height: 50px;
+  bottom: 0;
+  background-color: rgb(121, 211, 121);
+}
+
+li {
+  display: inline-block;
+}
